@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   checks.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-05-06 14:50:15 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-05-06 14:50:15 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/05/06 14:50:15 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:52:58 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "../pipex.h"
 
 char	*check_truecmd(char *cmd)

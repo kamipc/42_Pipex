@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   tasks.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-05-08 14:30:49 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-05-08 14:30:49 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/05/08 14:30:49 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:53:01 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "../pipex.h"
 
 char	*get_path(char *envp[])
