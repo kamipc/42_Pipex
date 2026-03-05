@@ -20,7 +20,7 @@ for example, the following command line `< infile ls -l | wc -l > outfile` will 
 ```
 ./pipex infile "ls -l" "wc -l" outfile
 ```
-##Instructions
+## Instructions
 
 - to clone the repository:
 ```
