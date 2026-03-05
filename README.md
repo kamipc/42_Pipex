@@ -33,7 +33,7 @@ make
 ```
 This will also clone the repository libft which is a dependency and compile it.
 
-- the to run the program use the command rules as above:
+- then to run the program use the command rules as above:
 
 ```
 ./pipex file1 cmd1 cmd2 file2
